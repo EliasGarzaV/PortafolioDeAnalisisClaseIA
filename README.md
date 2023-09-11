@@ -2,8 +2,6 @@
 
 Este es el repositorio de Análisis en donde encontraran las actividades relacionadas con la clase de Inteligencia Artificial. Cabe recalcar que se trabajaron varias bases de datos por lo que esta la información tanto de la parte de Machine Learning como la de estadistica en este repositorio. 
 
-# Repositorio de Implementación y Machine Learning
-Este es el repositorio de Implementación para la concentración en Inteligencia Artificial Avanzada de Elías Garza Valdés A01284041.
 ## Entregables
 
 - [Entregable Final Machine Learning: 11/09/2023](Entregables/EntregableFinalML.ipynb) - Este es el resultado final con la concatenación de las entregas con todas las correcciones hechas para el módulo de Machine learning. Contiene la aparte de implementación asi como la última entrega de Análisis para las cuales se utilizó el mismo modelo. (*Si usted es el profesor Ivan este es el archivo bueno por ver*)
