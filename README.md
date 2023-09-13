@@ -8,7 +8,7 @@ Este es el repositorio de Análisis en donde encontraran las actividades relacio
 
 - [Entregable Final Machine Learning: 11/09/2023](Entregables/EntregableFinal.ipynb) - Este es el resultado final con la concatenación de las entregas con todas las correcciones hechas para el módulo de Machine learning. Contiene la aparte de implementación asi como la última entrega de Análisis para las cuales se utilizó el mismo modelo. (*Si usted es el profesor Ivan este es el archivo bueno por ver*)
 
-- [Resporte Final Estadistica](Entregables/Problema_de_Autos_Estadistica.pdf) - Resporte final del problema de autos para el módulo de estadistica. 
+- [Reporte Final Estadistica](Entregables/Problema_de_Autos_Estadistica.pdf) - Resporte final del problema de autos para el módulo de estadistica. 
 
 
 ```
